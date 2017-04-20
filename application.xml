@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayofProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Properties>
-    <Key>version</key>
+    <Key>version</Key>
     <HashValue>1.0</HashValue>
   </Properties>
   <Properties>
-    <Key>enviroment</key>
+    <Key>enviroment</Key>
     <HashValue>production</HashValue>
   </Properties>
   <Properties>
-    <Key>system</key>
+    <Key>system</Key>
     <HashValue>http://190.8.128.76/pex_agents/</HashValue>
   </Properties>
-    <Properties>
-    <Key>autentication</key>
+  <Properties>
+    <Key>autentication</Key>
     <HashValue>http://190.8.128.76/ws_api/</HashValue>
   </Properties>
 </ArrayofProperties>
